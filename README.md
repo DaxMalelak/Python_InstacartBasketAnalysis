@@ -20,6 +20,7 @@ Using Python and libraries such as `pandas`, `numpy`, `matplotlib`, `seaborn`, a
 01 Project Management       → Project brief document
 
 02 Data                     → Raw and cleaned datasets (Data not uploaded to GitHub due to size limitations)
+
     └── Original Data        → Source datasets from Instacart and CareerFoundry  
     └── Prepared Data        → Cleaned and merged datasets for analysis 
     
