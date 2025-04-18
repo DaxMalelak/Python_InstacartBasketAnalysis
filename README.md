@@ -16,14 +16,14 @@ Using Python and libraries such as `pandas`, `numpy`, `matplotlib`, `seaborn`, a
 - What different classifications does the demographic information suggest?
 - What differences in ordering habits are found of different customer profiles?
 
-## Folders
-01 Project Management: Project brief document
-02 Data: Raw and cleaned datasets (Data not uploaded to GitHub due to size limitations)
-└── Original Data → Source datasets from Instacart and CareerFoundry
-└── Prepared Data → Cleaned and merged datasets for analysis
-03 Scripts: Python notebooks and scripts used in the analysis
-04 Analysis: Visualizations subfolder
-05 Sent to Client: Final Excel report prepared for stakeholders
+## Folders 
+01 Project Management       → Project brief document
+02 Data                     → Raw and cleaned datasets (Data not uploaded to GitHub due to size limitations)
+    └── Original Data        → Source datasets from Instacart and CareerFoundry  
+    └── Prepared Data        → Cleaned and merged datasets for analysis  
+03 Scripts                  → Python notebooks and scripts used in the analysis  
+04 Analysis                 → Visualizations subfolder
+05 Sent to Client           → Final Excel report prepared for stakeholders  
 
 ## Code Overview
 The analysis was conducted using the following Python libraries:
